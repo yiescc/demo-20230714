@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "bytedance-microapp"
+  ],
+  "hash": true,
+  "webpack5": true,
+  "plugins": []
+}
